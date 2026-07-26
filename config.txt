@@ -1,1 +1,1 @@
-APP_NAME=EMS-Production
+APP_NAME=EMS-Enterprise
